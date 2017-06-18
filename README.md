@@ -21,13 +21,24 @@
 
 ## Day 1
 
-- **08:30-09:00 am**-----------Sign-in + coffee
-- **09:00-09:30 am**-----------Introductions and course overview
-- **09:30-12:00 am**-----------__Session 1.1__: Programming in Python
-- **12:00-01:00 pm**-----------Lunch + student/instructor Q&A
-- **01:00-03:00 pm**-----------__Session 1.2__: Python's scientific computing infrastructure
-- **03:00-03:15 pm**-----------Coffee break
-- **03:15-05:00 pm**-----------__Session 1.3__: Introducing/loading the data sets for __Session 2__
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+| Time                       | Activity                                                                    |
+| -------------------------- | ---------------------------------------------------------------------------:|
+| **08:30-9:00 am**          | Sign-in + coffee                                                            |
+| **9:00-9:30 am**           | Introductions and course overview                                           |
+| **9:30-12:00 pm**          | __Session 1.1__: Programming in Python                                      |
+| **12:00-1:00 pm**          | Lunch + student/instruction Q&A                                             |
+| **1:00-3:00 pm**           | __Session 1.2__: Python's scientific computing infrastructure               |
+| **3:00-3:15 pm**           | Coffee break                                                                |
+| **3:15-5:00 pm**           | __Session 1.3__: Introducing/loading the data sets for __Session 2__        |
+
+
 
 ## Day 2
 - **08:30-09:00 am** Coffee
