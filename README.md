@@ -4,13 +4,13 @@
 
 # Document overview:
 
-- [Schedule](#Schedule)
+- [Schedule](# Schedule)
 
-- Python installation instructions(
+- [Python download & installation instructions](# Python download & installation instructions)
 
-- Workshop repository download instructions
+- [Workshop repository download instructions](# Workshop repository download instructions)
 
-- Data set information
+- [Data set information](# Dataset information)
 
 
 
@@ -38,6 +38,11 @@
 - **1:15-3:00 pm** __Session 2.2__: Time-series analysis
 - **3:00-5:00 pm** __Session 2.3__: Logistic regression
 
+# Python download & installation instructions
+
+# Workshop repository download instructions
+
+# Dataset information
 
 # Convert Jupyter to HTML slideshow
 ipython nbconvert your_slides.ipynb --to slides --post serve
