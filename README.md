@@ -1,4 +1,21 @@
-# Introduction to Python and Predictive Modeling Workshopf for CSU-LA/NASA DIRECT-STEM program
+# CSU-LA/NASA DIRECT-STEM data science workshop
+## Introduction to Python and Predictive Modeling Workshop
+
+
+## Document overview:
+
+- [Schedule](##Schedule)
+
+- Python installation instructions
+
+- Workshop repository download instructions
+
+- Data set information
+
+
+
+
+
 
 ## Schedule
 
