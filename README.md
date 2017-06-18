@@ -2,11 +2,11 @@
 ## Introduction to Python and Predictive Modeling Workshop
 
 
-## Document overview:
+# Document overview:
 
-- [Schedule](##Schedule)
+- [Schedule](#Schedule)
 
-- Python installation instructions
+- Python installation instructions(
 
 - Workshop repository download instructions
 
@@ -17,9 +17,9 @@
 
 
 
-## Schedule
+# Schedule
 
-### Day 1
+## Day 1
 
 - **8:30-9:00 am** Sign-in + coffee
 - **9:00-9:30 am** Introductions and course overview
@@ -29,7 +29,7 @@
 - **3:00-3:15 pm** Coffee break
 - **3:15-5:00 pm** __Session 1.3__: Introducing/loading the data sets for __Session 2__
 
-### Day 2
+## Day 2
 - **8:30-9:00 am** Coffee
 - **9:00-9:30 am** __Session 2__ overview
 - **9:30-12:00 am** __Session 2.1__: Linear regression
