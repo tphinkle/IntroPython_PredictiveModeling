@@ -40,11 +40,11 @@
 | -------------------------- |:----------------------------------------------------------------------------|
 | **08:30-9:00 am**          | Coffee                                                                      |
 | **9:00-9:30 am**           | __Session 2__ overview                                                      |
-| **9:30-12:00 pm**          | __Session 2.1__: Linear regression                                          |
+| **9:30-12:00 pm**          | __Session 2.1__: Linear regression introduction                             |
 | **12:00-1:00 pm**          | Lunch                                                                       |
-| **1:00-3:00 pm**           | __Session 2.2__: Time-series analysis                                       |
+| **1:00-3:00 pm**           | __Session 2.2__: Linear regression with scikit-learn                        |
 | **3:00-3:15 pm**           | Coffee break                                                                |
-| **3:15-5:00 pm**           | __Session 2.3__: Logistic regression                                        |
+| **3:15-5:00 pm**           | __Session 2.3__: Logistic regression with scikit-learn                      |
 
 # Python download & installation instructions
 
