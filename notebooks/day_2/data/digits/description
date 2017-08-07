@@ -1,0 +1,5 @@
+Description of 'data.csv' file.
+- The first row contains a header row with class and feature labels
+- Each subsequent row corresponds to a hand-written numeral that has been digitized and flattened (2D->1D conversion).
+- The original 2D images are square-shaped (width is same as height)
+- Feature values correspond to the grayscale pixel intensity ranging from 0-255 of the digitized image
