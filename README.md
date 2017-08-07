@@ -1,7 +1,7 @@
 # CSU-LA/NASA DIRECT-STEM data science workshop
 ## Introduction to Python and Predictive Modeling
 
-- Instructor: Preston Hinkle (** email: ** thinkle at uci dot edu)
+- Instructor: Preston Hinkle ( **email:** thinkle at uci dot edu)
 - TAs:
 	- 
 	- 
@@ -10,41 +10,30 @@
 
 
 
-# Document overview:
-
-- [Schedule](# Schedule)
-
-- [Python download & installation instructions](# Python download & installation instructions)
-
-- [Workshop repository download instructions](# Workshop repository download instructions)
-
-- [Data set information](# Dataset information)
-
 # Schedule
 
 ## Day 1
 
 | Time                       | Activity                                                                    |
 | -------------------------- |:----------------------------------------------------------------------------|
-| **9:00-9:30 am**          | Sign-in + coffee                                                            |
-| **9:30-10:00 am**           | Introductions and course overview                                           |
-| **10:00-12:00 pm**          | __Session 1.1__: Coding warm-up                                      |
-| **12:00-1:30 pm**          | Lunch + student/instruction Q&A                                             |
+| **9:30-10:00 am**          | Sign-in + coffee                                                            |
+| **10:00-10:30 am**           | Introductions and course overview                                           |
+| **10:30-12:00 pm**          | __Session 1.1__: Coding warm-up                                      |
+| **12:00-1:30 pm**          | Lunch
 | **1:30-3:00 pm**           | __Session 1.2__: Python's scientific computing infrastructure               |
-| **3:00-3:15 pm**           | Coffee break                                                                |
+| **3:00-3:15 pm**           | Break                                                                |
 | **3:15-5:00 pm**           | __Session 1.3__: Introducing/loading the data sets for __Session 2__        |
 
 ## Day 2
 
 | Time                       | Activity                                                                    |
 | -------------------------- |:----------------------------------------------------------------------------|
-| **08:30-9:00 am**          | Coffee                                                                      |
-| **9:00-9:30 am**           | __Session 2__ overview                                                      |
-| **9:30-12:00 pm**          | __Session 2.1__: Linear regression introduction                             |
-| **12:00-1:00 pm**          | Lunch                                                                       |
-| **1:00-3:00 pm**           | __Session 2.2__: Linear regression with scikit-learn                        |
-| **3:00-3:15 pm**           | Coffee break                                                                |
-| **3:15-5:00 pm**           | __Session 2.3__: Logistic regression with scikit-learn                      |
+| **09:30-10:00 am**          | Coffee                                                                      |
+| **10:00-12:00 am**           | __Session 2.1__: Linear regression                             |
+| **12:00-1:30 pm**          | Lunch                                                                       |
+| **1:30-3:00 pm**          | __Session 2.2__: Logistic regression                             |
+| **3:00- pm**           | __Session 2.3__: Intro to version control w/ git and closing remarks                        |
+
 
 # Python download & installation instructions
 
@@ -66,19 +55,13 @@
 	- Mac and Linux:
 		- Open the shell/terminal
 		- Enter `conda update conda`
-		- Enter `conda install anaconda
-5. (Download the workshop repository)[# Workshop repository download instructions]
-6. Navigate to workshop repository
+		- Enter `conda install anaconda`
+5. Download the workshop repository from the [github repo](https://github.com/tphinkle/IntroPython_PredictiveModeling)
+6. Using your terminal (Mac/Linux) or the Anaconda Prompt (Windows), `cd` to wherever you saved the repository
 7. Open Jupyter notebook by typing `jupyter notebook`
 8. Click on test_notebook.ipynb to open the test notebook
-9. Run the notebook. Contact your instructor if there is an error.
+9. Follow the instructions in the notebook. Contact your instructor if there is an error.
 
-
-
-# Workshop repository download instructions
-1. Go to the Github repository: (DIRECT-STEM Intro to Python + Predictive Modeling workshop)[https://github.com/UCIDataScienceInitiative]
-
-# Dataset information
 
 # Convert Jupyter to HTML slideshow
 ipython nbconvert your_slides.ipynb --to slides --post serve
