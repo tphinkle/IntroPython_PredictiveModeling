@@ -40,7 +40,8 @@
 
 - For this workshop we will be using the Anaconda distribution of Python 3.6
 - Follow these instructions to download and install Python on your local machine, **even if you already have Python installed!**
-- If you *really* think you don't need to install Python, please ask first :)
+- If you already have an Anaconda distribution of Python 3.6 installed, you can probably skip this; otherwise, please continue
+- If you *really* think you don't need to install Python, please e-mail me to confirm :)
 
 ## Python download & installation instructions 
 1. Go to the [Anaconda download page](https://www.continuum.io/downloads)
@@ -49,7 +50,7 @@
 3. Install Anaconda
 4. Install Python packages
 	- Windows:
-		- Open the **Anaconda Prompt** application
+		- Open the **Anaconda Prompt** application that installed with Anaconda
 		- Enter `conda update conda`
 		- Enter `conda install anaconda`
 
@@ -58,6 +59,7 @@
 		- Enter `conda update conda`
 		- Enter `conda install anaconda`
 5. Download the workshop repository from the [github repo](https://github.com/tphinkle/IntroPython_PredictiveModeling)
+	- Click the green button on the right 'Clone or download', then click 'Download ZIP'
 6. Using your terminal (Mac/Linux) or the Anaconda Prompt (Windows), `cd` to wherever you saved the repository
 7. Open Jupyter notebook by typing `jupyter notebook`
 8. Click on test_notebook.ipynb to open the test notebook
