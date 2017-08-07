@@ -64,7 +64,3 @@
 7. Open Jupyter notebook by typing `jupyter notebook`
 8. Click on test_notebook.ipynb to open the test notebook
 9. Follow the instructions in the notebook. Contact your instructor if there is an error.
-
-
-# Convert Jupyter to HTML slideshow
-ipython nbconvert your_slides.ipynb --to slides --post serve
