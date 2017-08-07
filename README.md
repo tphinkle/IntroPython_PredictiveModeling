@@ -35,13 +35,14 @@
 | **3:00- pm**           | __Session 2.3__: Intro to version control w/ git and closing remarks                        |
 
 
-# Python download & installation instructions
+# Workshop preliminaries
+
 
 - For this workshop we will be using the Anaconda distribution of Python 3.6
 - Follow these instructions to download and install Python on your local machine, **even if you already have Python installed!**
 - If you *really* think you don't need to install Python, please ask first :)
 
-## Workshop preliminaries
+## Python download & installation instructions 
 1. Go to the [Anaconda download page](https://www.continuum.io/downloads)
 2. Click on the link to download **Python 3.6** for your system
 	- Make sure you grab the correct version for your operating system! Ask if you have any questions
