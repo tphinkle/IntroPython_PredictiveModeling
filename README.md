@@ -3,11 +3,8 @@
 
 - Instructor: Preston Hinkle ( **email:** thinkle at uci dot edu)
 - TAs:
-	- 
-	- 
-	- 
-	- 
-
+	- Victoria Lin (Day 1)
+	- Anna Kwa (Day 2)
 
 
 # Schedule
