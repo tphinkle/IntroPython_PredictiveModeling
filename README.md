@@ -57,7 +57,7 @@
 		- Enter `conda install anaconda`
 5. Download the workshop repository from the [github repo](https://github.com/tphinkle/IntroPython_PredictiveModeling)
 	- Click the green button on the right 'Clone or download', then click 'Download ZIP'
-6. Using your terminal (Mac/Linux) or the Anaconda Prompt (Windows), `cd` to wherever you saved the repository
-7. Open Jupyter notebook by typing `jupyter notebook`
+6. Using your terminal (Mac/Linux) or the Anaconda Prompt (Windows), `cd` to wherever you saved the repository (`cd` is the command for changing directory; so on my system I type `cd Desktop/data_science/teaching/IntroPython_PredictiveModeling` to get to the directory where I put the workshop folder)
+7. Open Jupyter notebook by typing `jupyter notebook`; this should open a tab in your internet browser.
 8. Click on test_notebook.ipynb to open the test notebook
 9. Follow the instructions in the notebook. Contact your instructor if there is an error.
