@@ -1,4 +1,4 @@
-Description of 'data.csv' file.
+Description of .csv files
 - The first row contains a header row with class and feature labels
 - Each subsequent row corresponds to a hand-written numeral that has been digitized and flattened (2D->1D conversion).
 - The original 2D images are square-shaped (width is same as height)
